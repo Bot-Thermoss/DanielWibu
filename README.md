@@ -29,7 +29,7 @@ Script ini di modifikasi sama saya sendiri Daniel Termos BOT.
 
 ## Features
 
-| AR15BOT      |                   Feature        |
+| Termos BOT      |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
